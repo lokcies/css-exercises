@@ -1,19 +1,18 @@
-.n1,
-#n5{
-    background-color: #f7a8a8
+.odd{
+    background-color: #f89b8b;
+    font-family: Verdana, 'Dejavu Sans', sans-serif
 }
 
-#n2{
-    font-size: 30px;
-    color: #162db3;
+#second{
+    color: #2649e4;
+    font-size: 36px;
 }
 
-.n1.resize{
-    font-size: 20px;
+.font-resize-big{
+    font-size: 24px;
 }
 
-#n4{
-    font-size: 15px;
+#fourth{
+    background-color: #b3ff6b;
     font-weight: bold;
-    background-color: #82d889;
 }
