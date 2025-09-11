@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.n1,
+#n5{
+    background-color: #f7a8a8
+}
+
+#n2{
+    font-size: 30px;
+    color: #162db3;
+}
+
+.n1.resize{
+    font-size: 20px;
+}
+
+#n4{
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #82d889;
+}
