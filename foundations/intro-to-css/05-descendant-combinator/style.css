@@ -13,3 +13,10 @@ div.container p.text{
     font-size: 20px;
     text-align: center;    
 }
+
+/* Below are some other possible descendant combinators:
+
+div .text
+.container p
+
+*/
